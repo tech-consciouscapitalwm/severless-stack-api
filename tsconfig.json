@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+        "lib": ["es2018", "dom"],
+		"module": "commonjs",
+		"noImplicitAny": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"sourceMap": true
+	}
+}
